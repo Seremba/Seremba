@@ -12,9 +12,9 @@ Skills: HTML, CSS, SCSS, JavaScript, React, Redux, Java, Spring
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seremba)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Seremba/&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seremba&show_icons=true) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Seremba/)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Seremba)
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Seremba/)  
 
