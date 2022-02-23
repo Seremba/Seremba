@@ -7,9 +7,6 @@ Skills: HTML, CSS, SCSS, JavaScript, React, Redux, Java, Spring
 - 📫 How to reach me: pserembae@gmail.com 
 - 😄 Pronouns: He/Him 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Seremba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/seremba-patrick//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/dev_seremba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://seremba.github.io/portfolio/)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seremba&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seremba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
