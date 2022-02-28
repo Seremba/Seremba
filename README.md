@@ -3,7 +3,7 @@
 
 Skills: HTML, CSS, SCSS, JavaScript, React, Redux, Java, Spring
 
-- 🌱 I’m currently learning Tailwind CSS, Spring Boot, Hibernate 
+- 🌱 I’m currently learning fullstack programming with React and Java
 -  💬 Ask me about Java, React, and Open Source Software 
 - 📫 How to reach me: pserembae@gmail.com 
 - 😄 Pronouns: He/Him 
