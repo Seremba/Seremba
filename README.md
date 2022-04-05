@@ -6,7 +6,7 @@ Skills: HTML, CSS, SCSS, JavaScript, React, Redux, Java, Spring, SQL, Hiberante
 - 🌱 I’m currently learning fullstack programming with React and Java
 -  💬 Ask me about Java, React, and Open Source Software 
 - 📫 How to reach me: pserembae@gmail.com 
-- 😄 Pronouns: He/Him/them
+- 😄 Pronouns: He/Him
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seremba&show_icons=true) 
 
