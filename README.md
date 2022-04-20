@@ -1,5 +1,5 @@
 ### Hi there 👋, I am *Seremba Patrick*
- from Uganda, and I do love working with Java, Spring on the backend, and React or Vue on the front-end when it comes to Development. I also enjoy creating amazing websites with WordPress.
+ from Kampala, Uganda, and I do love working with Java, Spring on the backend, and React or Vue on the front-end when it comes to Development. I also enjoy creating amazing websites with WordPress.
 
 Skills: HTML, CSS, SCSS, JavaScript, React, Redux, Java, Spring, SQL, Hiberante
 
