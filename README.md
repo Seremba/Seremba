@@ -4,7 +4,7 @@ I am *Seremba Patrick* living in Kampala, Uganda, and I love working with Java, 
 Skills: HTML5, CSS3, SCSS, Tailwind, JavaScript, TypeScript, React, Redux, Java, Spring, SQL, Hiberante
 
 - 🌱 I’m currently working on being a fullstack programmer with React and Java
--  💬 Ask me about Java, React, and Open Source Software 
+-  💬 Ask me about Java, React, and Open Source contribution
 - 📫 How to reach me: pserembae@gmail.com 
 - 😄 Pronouns: He/Him
 
