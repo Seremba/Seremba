@@ -1,7 +1,8 @@
 ### Hi 👋, 
 I am *Seremba Patrick* residing in Kampala, Uganda. I love working with Node, Express on the backend, and React on the front-end for Development. I also enjoy creating amazing websites with WordPress. When I am off the screen, I am playing a board game or reading a physical book. My favorite so far is Deep Work.
 
-Frontend: HTML5, CSS3, Tailwind, JavaScript, TypeScript, React, Redux. Java, Spring, SQL, hibernate 
+Frontend: HTML5, CSS3, Tailwind, JavaScript, TypeScript, React, Redux. 
+Backend: Node, Express, MongoDB, SQL, SQLITE 
 
 - 🌱 I am currently working on being a fullstack programmer building with React and Node 
 -  💬 Ask me about Java, React, and Open Source contribution
