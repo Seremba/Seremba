@@ -5,7 +5,7 @@ Frontend: HTML5, CSS3, Tailwind CSS, SCSS,JavaScript, TypeScript, React, Redux, 
 Backend: Node, Express, MongoDB, Mongoose, SQL, SQLITE, Python, Django
 
 - 🌱 I am currently working on being a world class programmer
--  💬 Ask me about Node, React, and Opensource contribution
+-  💬 Ask me about Node, React, and Opensource contributions
 - 📫 How to reach me: pserembae@gmail.com 
 - 😄 Pronouns: He/Him
 
