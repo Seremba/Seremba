@@ -1,5 +1,5 @@
 ### Hi 👋, 
-I am *Seremba Patrick* from Kampala, Uganda. I love working with Node, Express, Java, Spring on the backend, and React on the front-end for Development. I also enjoy creating amazing websites with WordPress.
+I am *Seremba Patrick* from Uganda. I love working with Node, Express, Java, Spring on the backend, and React on the front-end for Development. I also enjoy creating amazing websites with WordPress.
 
 Frontend: HTML5, CSS3, Tailwind CSS, SCSS,TypeScript, React, Redux <br>
 Backend: Node, Express, MongoDB, Mongoose, SQL, Java, Spring Framework 
