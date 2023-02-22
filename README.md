@@ -2,7 +2,8 @@
 I am *Seremba Patrick* from Uganda. I love working with Node, Express, Java, Spring and Spring Boot on the backend, and React on the front-end for Development. I also enjoy creating amazing websites using WordPress.
 
 Frontend: HTML5, CSS3, Tailwind, SCSS,TypeScript, React, Redux <br>
-Backend: Node, Express, MongoDB, Mongoose, SQL, Java, Spring, Spring Boot 
+Backend: Node, Express, MongoDB, Mongoose, SQL, Java, Spring, Spring Boot <br>
+Database: MongoDB, SQL
 
 - 🌱 I am currently working on being a world class programmer
 -  💬 Ask me about Node, React, and Opensource contributions
