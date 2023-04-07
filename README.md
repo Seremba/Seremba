@@ -6,8 +6,8 @@ Backend: Node, Express, MongoDB, Mongoose, SQL, Java, Spring, Spring Boot <br>
 Database: MongoDB, MySQL
 Websites: WordPress
 
-- 🌱 I am currently working on being a world class programmer
--  💬 Ask me about Node, React, and Opensource contributions
+- 🌱 I am currently working on being a world-class programmer
+-  💬 Ask me about Node, React, and Opensource contribution
 - 📫 How to reach me: pserembae@gmail.com 
 - 😄 Pronouns: He/Him
 
