@@ -11,8 +11,6 @@ Websites: WordPress
 - 📫 How to reach me: pserembae@gmail.com 
 - 😄 Pronouns: He/Him
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seremba&show_icons=true) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seremba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
