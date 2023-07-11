@@ -1,5 +1,5 @@
 ### Hello 👋, 
-I am *Seremba Patrick*, I love working with Java, Spring and Spring Boot on the backend, and React on the frontend for Development. I also enjoy creating amazing websites using WordPress CMS.
+My name is *Seremba Patrick*, I love working with Java, Spring and Spring Boot on the backend, and React on the frontend for Development. I also enjoy creating amazing websites using WordPress CMS.
 
 Frontend: HTML5, CSS3, Tailwind, SCSS,TypeScript, React, Redux <br>
 Backend: Node, Express, MongoDB, Mongoose, SQL, Java, Spring, Spring Boot <br>
