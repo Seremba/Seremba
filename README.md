@@ -1,5 +1,5 @@
 ### Hey 👋, 
-I am Seremba Patrick,
+I'm Seremba Patrick,
 
 Frontend: HTML5, CSS3, Tailwind, SCSS, TypeScript, React, Redux <br>
 Backend: Node, Express, Mongoose, SQL, Java, Spring, Spring Boot <br>
